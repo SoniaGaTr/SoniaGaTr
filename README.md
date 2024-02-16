@@ -3,12 +3,13 @@
 - Estudiante de Ingeniería Informática en UPM
 - Linkedin : www.linkedin.com/in/sonia-gallego-trapero-3403a8223
 
-### 🌱 Estoy aprendiendo:
+### 💻 Lenguajes y herramientas:
 - Java
-- Desarrollo de aplicaiones móbiles (android)
-- Kotlin
 - SQL
 
+### 🌱 Estoy aprendiendo:
+- Desarrollo de aplicaiones móbiles (Android)
+- Kotlin
 
 <!--
 **SoniaGaTr/SoniaGaTr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
