@@ -5,6 +5,7 @@
 
 ### 💻 Lenguajes y herramientas:
 - Java
+- C
 - SQL
 
 ### 🌱 Estoy aprendiendo:
