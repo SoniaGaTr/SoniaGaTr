@@ -1,6 +1,6 @@
 ## Hola!👋 Soy Sonia :)
 ### 😄 Sobre mi:
-- Estudiante de Ingeniería Informática en UPM
+- Graduada en Ingeniería Informática en UPM
 - Linkedin : www.linkedin.com/in/sonia-gallego-trapero-3403a8223
 
 ### 💻 Lenguajes y herramientas:
